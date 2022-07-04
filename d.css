@@ -1,0 +1,27 @@
+.AS{
+    position: absolute;
+    display: inline-block;
+    right:  2px;
+    bottom: 2px;
+}
+.AS .D{
+    /* margin-right: 400px; */
+    font-size: 30px;
+    display: inline-block;
+}
+.A{
+    padding: 30px;
+}
+.D{
+   margin-left: 20px;
+}
+.animate__animated{
+    animation-iteration-count:calc(2);
+}
+.container{
+    background-color: cornsilk;
+}
+body
+{
+    background-color: rgb(240, 233, 145);
+}
